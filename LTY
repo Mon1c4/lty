@@ -1,0 +1,29 @@
+# lty
+
+##
+#R dispone de una lista (unos 70) de parámetros gráficos que controlan.Por ejemplo: el color, tipo de línea, grosor, tipo de punto,
+justificación del texto, tamaño, etc.
+
+#LTY___
+#lty permite especificaciones más complejas (longitud de los segmentos que son alternativamente dibujados y no dibujados).
+#lty: controla el tipo de las lineas
+
+#lty: Cambia el tipo de línea, ya sea:
+#1: solida
+#2: quebrada
+#3: punteada
+#4: punto-linea
+#5: linea larga-corta
+#6: dos lineas cortas
+
+##Otros argumentos:
+
+#lwd: determinar el ancho de linea en relación con el valor por defecto (defecto=1)
+#col: Color con el que dibuja
+# pch:tipo de punto (números o caracteres entre comillas)
+# type: tipo.
+# xlab: grosor del eje x
+# ylab: grosor del eje x
+# main: título principal
+# mfcol, mfrow // "matrix figure" // varios gráficos en una sola ventana
+
